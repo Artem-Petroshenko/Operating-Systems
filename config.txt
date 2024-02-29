@@ -1,0 +1,3 @@
+/home/artem/Daemon/folder1 /home/artem/Daemon/folder2 txt
+/home/artem/Daemon/folder3 /home/artem/Daemon/folder4 txt
+50
